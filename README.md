@@ -8,7 +8,7 @@ Tan, M. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
 
 #### Dimension Reduction
 
-McInnes, L. UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction. 2018. [link] (https://arxiv.org/abs/1802.03426)
+McInnes, L. UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction. 2018. [link](https://arxiv.org/abs/1802.03426)
 
 #### Optimization methods
 
